@@ -1,4 +1,4 @@
-import { Code2, GraduationCap, Briefcase } from "lucide-react"
+import { Code2, GraduationCap, Briefcase, Presentation } from "lucide-react"
 
 const highlights = [
   {
@@ -15,6 +15,11 @@ const highlights = [
     icon: Briefcase,
     title: "Full Stack",
     description: "MEARN Stack Certified",
+  },
+  {
+    icon: Presentation,
+    title: "6+ Years",
+    description: "Teaching Experience",
   },
 ]
 
