@@ -54,6 +54,17 @@ const experiences = [
       "Gained hands-on experience with REST API development, database design, and frontend frameworks",
     ],
   },
+  {
+    company: "Teaching Experience",
+    role: "Assistant Professor (CS) / Mathematics Faculty",
+    period: "2015 – 2022",
+    location: "Kerala, India / UAE",
+    responsibilities: [
+      "Mathematics Faculty – Taught IGCSE & A-Level Mathematics; served as Academic Coordinator",
+      "Assistant Professor (CS) – Delivered undergraduate/PG courses on OOP, OS, Compilers, Distributed Computing; lab sessions in C, C++, Java.",
+      "Lecturer (CS) – Taught Network Programming and Microprocessors (8086).",
+    ],
+  },
 ]
 
 export function Experience() {
