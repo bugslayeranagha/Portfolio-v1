@@ -74,9 +74,7 @@ export function Projects() {
           {featuredProjects.map((project, index) => (
             <div
               key={project.title}
-              className={`relative grid md:grid-cols-12 gap-4 items-center ${
-                index % 2 === 1 ? "md:text-right" : ""
-              }`}
+              className={`relative grid md:grid-cols-12 gap-4 items-center`}
             >
               <div
                 className={`md:col-span-7 ${
